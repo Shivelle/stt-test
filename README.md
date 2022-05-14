@@ -1,6 +1,6 @@
 # Speech to Text Demo
 
-This is just a demo script for basic speech to text functionality with python.
+This is a demo script for basic speech to text functionality with python.
 
 Required packages:
 - pydub
